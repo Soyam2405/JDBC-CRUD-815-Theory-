@@ -1,5 +1,4 @@
 package com.capgemini.Main;
-
 class sum{
 public static void main(String args[])   
 {  
